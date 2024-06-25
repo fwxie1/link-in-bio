@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 谢丰蔚
+title: David Fengwei Xie
 
 # Name pronunciation (optional)
-name_pronunciation: Xie Feng Wei
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: David Fengwei
@@ -27,9 +27,9 @@ organizations:
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
+  #- icon: at-symbol
+  #  url: 'mailto:dx335@example.com'
+  #  label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/FengweiXie
   - icon: brands/facebook
@@ -41,9 +41,11 @@ profiles:
   - icon: brands/orcid
     url: https://orcid.org/0000-0002-2033-082X
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
+  #- icon: academicons/cv
+  #  url: uploads/resume.pdf
+  #  label: Download my resume
 ---
 
 Expert in (bio)polymers for materials and food
+
+Dr David Fengwei Xie possesses a wealth of research experience at the crossroads of engineering, chemistry, and physics, with a particular focus on biopolymers (polysaccharides and proteins) for ‘green’ materials and food applications.

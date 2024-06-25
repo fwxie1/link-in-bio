@@ -25,12 +25,21 @@ sections:
         - text: Personal Website
           icon: 
           url: https://fwxie.wordpress.com/
+        - text: University of Bath Research Portal Profile
+          icon: 
+          url: https://researchportal.bath.ac.uk/en/persons/david-fengwei-xie
+        - text: Research
+          icon: 
+          url: https://fwxie.wordpress.com/Research/
         - text: Selected Publications
           icon: 
-          url: https://fwxie.com/publications/
+          url: https://fwxie.wordpress.com/publications/
         - text: Google Scholar
           icon: brands/google-scholar
           url: https://scholar.google.com/citations?user=ZMSsT_gAAAAJ
+        - text: ResearchGate
+          icon: 
+          url: https://www.researchgate.net/profile/Fengwei-Xie
         - text: Review article on alginate-based materials
           icon: 
           url: https://doi.org/10.1016/j.mser.2024.100799
