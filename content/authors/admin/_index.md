@@ -32,8 +32,8 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/FengweiXie
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: brands/facebook
+    url: https://www.facebook.com/FengweiXie/
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/fwxie/
   - icon: brands/google-scholar
