@@ -28,7 +28,7 @@ sections:
         - text: Selected Publications
           icon: 
           url: https://fwxie.com/publications/
-        - text: Connect with me on LinkedIn
+        - text: Google Scholar
           icon: brands/google-scholar
           url: https://scholar.google.com/citations?user=ZMSsT_gAAAAJ
         - text: Review article on alginate-based materials
