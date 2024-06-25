@@ -29,8 +29,8 @@ sections:
           icon: 
           url: https://fwxie.com/publications/
         - text: Connect with me on LinkedIn
-          icon: brands/linkedin
-          url: https://www.linkedin.com/in/fwxie/
+          icon: brands/google-scholar
+          url: https://scholar.google.com/citations?user=ZMSsT_gAAAAJ
         - text: Review article on alginate-based materials
           icon: 
           url: https://doi.org/10.1016/j.mser.2024.100799
