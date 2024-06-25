@@ -31,10 +31,7 @@ sections:
         - text: Connect with me on LinkedIn
           icon: brands/linkedin
           url: https://www.linkedin.com/in/fwxie/
-        - text: Alginate-based materials: Enhancing properties through multiphase formulation design and processing innovation
+        - text: Review article on alginate-based materials
           icon: 
           url: https://doi.org/10.1016/j.mser.2024.100799
-        - text: Chitosan-based electroconductive inks without chemical reaction for cost-effective and versatile 3D printing for electromagnetic interference (EMI) shielding and strain-sensing applications
-          icon: 
-          url: https://doi.org/10.1016/j.carbpol.2024.122161
 ---
