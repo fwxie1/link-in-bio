@@ -1,0 +1,10 @@
+{{- range .Params.content.sections }}
+  <h2>{{ .heading }}</h2>
+  {{- range .buttons }}
+    <div class="button">
+      <a href="{{ .url }}">
+        <i class="{{ .icon }}"></i> {{ .title }}
+      </a>
+    </div>
+  {{- end }}
+{{- end }}
