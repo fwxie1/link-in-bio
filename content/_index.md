@@ -38,7 +38,7 @@ sections:
           icon: brands/google-scholar
           url: https://scholar.google.com/citations?user=ZMSsT_gAAAAJ
         - text: ResearchGate
-          icon: 
+          icon: academicons/researchgate
           url: https://www.researchgate.net/profile/Fengwei-Xie
         - text: Review article on alginate-based materials
           icon: 
