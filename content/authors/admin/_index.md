@@ -1,61 +1,52 @@
 ---
-# Display name
-title: David Fengwei Xie
+title: 'Home'
+date: 2023-10-24
+type: landing
 
-# Name pronunciation (optional)
-name_pronunciation: ''
+design:
+  background:
+    image:
+      # Add your image background to `assets/media/`.
+      filename: bg-hue.svg
 
-# Full name (for SEO)
-first_name: David Fengwei
-last_name: Xie
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: University of Bath
-    url: https://researchportal.bath.ac.uk/en/persons/david-fengwei-xie
-
-# Social Networking
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:dx335@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/FengweiXie
-  #- icon: brands/instagram
-  #  url: https://www.instagram.com/fwxie/
-  #- icon: brands/github
-  #  url: https://github.com/fwxie1
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/fwxie/
-  - icon: brands/facebook
-    url: https://www.facebook.com/FengweiXie/
-  - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=ZMSsT_gAAAAJ
-  - icon: brands/orcid
-    url: https://orcid.org/0000-0002-2033-082X
-  - icon: academicons/researchgate
-    url: https://www.researchgate.net/profile/Fengwei_Xie/
-  - icon: academicons/scopus
-    url: https://www.scopus.com/authid/detail.uri?authorId=12805693800/
-  - icon: academicons/clarivate
-    url: https://www.webofscience.com/wos/author/rid/B-4747-2009/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  #- icon: academicons/cv
-  #  url: uploads/resume.pdf
-  #  label: Download my resume
+sections:
+  - block: resume-biography
+    content:
+      # The user's folder name in content/authors/
+      username: admin
+    design:
+      biography:
+        style: 'text-align: justify; font-size: 0.8em;'
+  - block: cta-button-list
+    content:
+      # Need a custom icon?
+      # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
+      sections:
+        - heading: Websites
+          buttons:
+            - text: Personal Website
+              icon: ''
+              url: https://fwxie.wordpress.com/
+            - text: University of Bath Research Portal Profile
+              icon: ''
+              url: https://researchportal.bath.ac.uk/en/persons/david-fengwei-xie
+        - heading: Research & Publications
+          buttons:  # Corrected indentation
+            - text: Research
+              icon: ''
+              url: https://fwxie.wordpress.com/Research/
+            - text: Selected Publications
+              icon: ''
+              url: https://fwxie.wordpress.com/publications/
+            - text: Google Scholar
+              icon: brands/google-scholar
+              url: https://scholar.google.com/citations?user=ZMSsT_gAAAAJ
+            - text: ResearchGate
+              icon: academicons/researchgate
+              url: https://www.researchgate.net/profile/Fengwei-Xie
+        - heading: Recent Publications
+          buttons:  # Corrected indentation
+            - text: Review article on alginate-based materials
+              icon: ''
+              url: https://doi.org/10.1016/j.mser.2024.100799
 ---
-
-Expert in (bio)polymers for materials and food
-
-Dr David Fengwei Xie possesses a wealth of research experience at the crossroads of engineering, chemistry, and physics, with a particular focus on biopolymers (polysaccharides and proteins) for ‘green’ materials and food applications.
