@@ -30,7 +30,7 @@ sections:
           url: https://researchportal.bath.ac.uk/en/persons/david-fengwei-xie
         - text: Research
           icon: ''
-          url: https://fwxie.wordpress.com/Research/
+          url: https://fwxie.wordpress.com/research/
         - text: Selected Publications
           icon: ''
           url: https://fwxie.wordpress.com/publications/
