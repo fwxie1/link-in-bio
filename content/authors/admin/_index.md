@@ -32,11 +32,15 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/FengweiXie
-  - icon: brands/facebook
-    url: https://www.facebook.com/FengweiXie/
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/fwxie/
+  #- icon: brands/github
+  #  url: https://github.com/fwxie1
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/fwxie/
-  - icon: brands/google-scholar
+  - icon: brands/facebook
+    url: https://www.facebook.com/FengweiXie/
+- icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=ZMSsT_gAAAAJ
   - icon: brands/orcid
     url: https://orcid.org/0000-0002-2033-082X
