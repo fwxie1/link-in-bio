@@ -1,10 +1,31 @@
-{{- range .Params.content.sections }}
-  <h2>{{ .heading }}</h2>
-  {{- range .buttons }}
-    <div class="button">
-      <a href="{{ .url }}">
-        <i class="{{ .icon }}"></i> {{ .title }}
-      </a>
-    </div>
-  {{- end }}
-{{- end }}
+/* Example CSS for buttons and sections */
+section {
+  margin-bottom: 20px;
+}
+
+section h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.button {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.button a {
+  text-decoration: none;
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+}
+
+.button a:hover {
+  background-color: #0056b3;
+}
