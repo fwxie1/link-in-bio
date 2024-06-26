@@ -40,7 +40,13 @@ sections:
         - text: ResearchGate
           icon: academicons/researchgate
           url: https://www.researchgate.net/profile/Fengwei-Xie
-        - text: Review article on alginate-based materials
+        - text: 'Review: Alginate-based materials'
           icon: ''
           url: https://doi.org/10.1016/j.mser.2024.100799
+        - text: 'Review: Starch-based materials for flexible electronic sensor development'
+          icon: ''
+          url: https://doi.org/10.1016/j.carbpol.2024.122116
+        - text: 'Review: Biofunctional chitosan–biopolymer composites for biomedical applications'
+          icon: ''
+          url: https://doi.org/10.1016/j.mser.2024.100775
 ---
