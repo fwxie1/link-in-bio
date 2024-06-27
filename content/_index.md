@@ -45,8 +45,23 @@ sections:
           url: https://doi.org/10.1016/j.mser.2024.100799
         - text: 'Review: Starch-based materials for flexible electronic sensor development'
           icon: ''
+          url: https://doi.org/10.1016/j.carbpol.2024.122161
+        - text: 'Chitosan-based electroconductive inks without chemical reaction for cost-effective and versatile 3D printing for electromagnetic interference (EMI) shielding and strain-sensing applications'
+          icon: ''
           url: https://doi.org/10.1016/j.carbpol.2024.122116
         - text: 'Review: Biofunctional chitosan–biopolymer composites for biomedical applications'
           icon: ''
           url: https://doi.org/10.1016/j.mser.2024.100775
+        - text: 'Book Chapter - 3D printing of biopolymer-based hydrogels'
+          icon: ''
+          url: https://doi.org/10.1016/B978-0-323-95151-7.00004-1
+        - text: 'For efficient treatment of starch using aqueous ionic liquid at room temperature'
+          icon: ''
+          url: https://doi.org/10.1016/j.susmat.2023.e00592
+        - text: 'All-Starch-Based Hydrogel for Flexible Electronics: Strain-Sensitive Batteries and Self-Powered Sensors'
+          icon: ''
+          url: https://doi.org/10.1021/acssuschemeng.2c00872
+        - text: 'Thermomechanically processed chitosan:gelatin films being transparent, mechanically robust and less hygroscopic'
+          icon: ''
+          url: https://doi.org/10.1016/j.carbpol.2021.118522
 ---
