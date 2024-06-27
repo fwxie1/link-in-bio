@@ -45,10 +45,10 @@ sections:
           url: https://doi.org/10.1016/j.mser.2024.100799
         - text: 'Review: Starch-based materials for flexible electronic sensor development'
           icon: ''
-          url: https://doi.org/10.1016/j.carbpol.2024.122161
+          url: https://doi.org/10.1016/j.carbpol.2024.122116
         - text: 'Chitosan-based electroconductive inks without chemical reaction for cost-effective and versatile 3D printing for electromagnetic interference (EMI) shielding and strain-sensing applications'
           icon: ''
-          url: https://doi.org/10.1016/j.carbpol.2024.122116
+          url: https://doi.org/10.1016/j.carbpol.2024.122161
         - text: 'Review: Biofunctional chitosan–biopolymer composites for biomedical applications'
           icon: ''
           url: https://doi.org/10.1016/j.mser.2024.100775
