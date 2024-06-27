@@ -32,10 +32,10 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/FengweiXie
-  #- icon: brands/instagram
-  #  url: https://www.instagram.com/fwxie/
-  #- icon: brands/github
-  #  url: https://github.com/fwxie1
+##  - icon: brands/instagram
+##    url: https://www.instagram.com/fwxie/
+##  - icon: brands/github
+##    url: https://github.com/fwxie1
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/fwxie/
   - icon: brands/facebook
@@ -50,10 +50,10 @@ profiles:
     url: https://www.scopus.com/authid/detail.uri?authorId=12805693800
   - icon: academicons/clarivate
     url: https://www.webofscience.com/wos/author/rid/B-4747-2009/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  #- icon: academicons/cv
-  #  url: uploads/resume.pdf
-  #  label: Download my resume
+   Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
+##  - icon: academicons/cv
+##    url: uploads/resume.pdf
+##    label: Download my resume
 ---
 
 **Expert in (bio)polymers for materials and food**
