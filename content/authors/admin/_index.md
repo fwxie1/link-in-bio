@@ -47,7 +47,7 @@ profiles:
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Fengwei_Xie/
   - icon: academicons/scopus
-    url: https://www.scopus.com/authid/detail.uri?authorId=12805693800/
+    url: https://www.scopus.com/authid/detail.uri?authorId=12805693800
   - icon: academicons/clarivate
     url: https://www.webofscience.com/wos/author/rid/B-4747-2009/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
