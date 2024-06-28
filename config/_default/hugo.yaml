@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: David Fengwei Xie | Expert in (bio)polymers for materials and food # Website name
-## baseURL: 'https://example.com/' # Website URL
+## baseURL: 'https://example.com/' # Website URL ## Enable this will cause the background image not displaying on Cloudflare Pages.
 
 ############################
 ## LANGUAGE
