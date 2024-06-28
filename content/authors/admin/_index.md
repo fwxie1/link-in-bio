@@ -42,8 +42,8 @@ profiles:
 ##    url: https://www.instagram.com/fwxie
 ##  - icon: brands/youtube
 ##    url: ''
-  - icon: brands/mastodon
-    url: https://mastodon.social/@fwxie
+##  - icon: brands/mastodon
+##    url: https://mastodon.social/@fwxie
 ##  - icon: brands/github
 ##    url: https://github.com/fwxie1
   - icon: brands/google-scholar
