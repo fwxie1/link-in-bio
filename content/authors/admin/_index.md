@@ -30,26 +30,32 @@ profiles:
   - icon: at-symbol
     url: 'mailto:dx335@bath.ac.uk'
     label: E-mail Me
+##  - icon: brands/weixin
+##    url: ''
   - icon: brands/x
     url: https://twitter.com/FengweiXie
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/fwxie
+  - icon: brands/facebook
+    url: https://www.facebook.com/FengweiXie
 ##  - icon: brands/instagram
-##    url: https://www.instagram.com/fwxie/
+##    url: https://www.instagram.com/fwxie
+##  - icon: brands/youtube
+##    url: ''
+  - icon: brands/mastodon
+    url: https://mastodon.social/@fwxie
 ##  - icon: brands/github
 ##    url: https://github.com/fwxie1
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/fwxie/
-  - icon: brands/facebook
-    url: https://www.facebook.com/FengweiXie/
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=ZMSsT_gAAAAJ
   - icon: brands/orcid
     url: https://orcid.org/0000-0002-2033-082X
   - icon: academicons/researchgate
-    url: https://www.researchgate.net/profile/Fengwei_Xie/
+    url: https://www.researchgate.net/profile/Fengwei_Xie
   - icon: academicons/scopus
     url: https://www.scopus.com/authid/detail.uri?authorId=12805693800
   - icon: academicons/clarivate
-    url: https://www.webofscience.com/wos/author/rid/B-4747-2009/
+    url: https://www.webofscience.com/wos/author/rid/B-4747-2009
 # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
 ##  - icon: academicons/cv
 ##    url: uploads/resume.pdf
