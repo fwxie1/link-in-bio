@@ -35,7 +35,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} {admin}'
+    notice: '© {year} David Fengwei Xie'
 
 # Localization
 locale:
